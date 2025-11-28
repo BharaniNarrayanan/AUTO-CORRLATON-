@@ -12,7 +12,19 @@ Load or Define the Signal: Input your time-domain signal. Compute Autocorrelatio
 transform of the autocorrelation. Plot Results: Visualize the autocorrelation function and PSD. # 
 # PROCEDURE
 
-• Refer Algorithms and write code for the experiment. • Open SCILAB in System • Type your code in New Editor • Save the file • Execute the code • If any Error, correct it in code and execute again • Verify the generated waveform using Tabulation and Model Waveform
+• Refer Algorithms and write code for the experiment.
+
+• Open SCILAB in System.
+
+• Type your code in New Editor .
+
+• Save the file .
+
+• Execute the code.
+
+• If any Error, correct it in code and execute again. 
+
+• Verify the generated waveform using Tabulation and Model Waveform.
 
 # PROGRAM:
 ````
